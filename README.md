@@ -1,7 +1,7 @@
 # Ultimate 06 months DevOps learning plan
 
 
-## 🗓️ Curriculum Overview (Month-by-Month Breakdown)
+## 🗓️ Curriculum Overview
 
 | Month | Topics Covered |
 |-------|----------------|
@@ -45,5 +45,11 @@ By the end of Month 6, you will:
 - Add observability with Prometheus and Grafana
 - Publish your GitHub repository as a portfolio piece
 
+---
 
+## License
 
+This project is Free to use for educational purposes.  
+Feel free to fork and customize.
+
+Origin Repo : https://github.com/CoDeKu-Labs/devops-engineer-learning-path
