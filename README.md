@@ -18,7 +18,7 @@
 
 | Month | Week(s) | Topics | Tools / Platforms | Status |
 |-------|---------|--------|-------------------|--------|
-| Sep | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | ✅ Completed 
+| Sep | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | ⏳ Upcoming 
 | Sep | 3–4 | Shell Scripting | Bash, Vim/Nano | ⏳ Upcoming 
 | Oct | 1–2 | Git & GitHub | Git CLI, GitHub | ⏳ Upcoming 
 | Oct | 3–4 | Git Workflows | GitHub Issues, Projects | ⏳ Upcoming 
@@ -45,15 +45,5 @@ By the end of Month 6, you will:
 - Add observability with Prometheus and Grafana
 - Publish your GitHub repository as a portfolio piece
 
----
 
-## 🌐 Tools & Resources Used
-
-- **Linux**: Ubuntu, CentOS, Linux Handbook  
-- **Git**: Git CLI, GitHub Projects  
-- **Docker**: Docker CLI, DockerHub, Docker Compose  
-- **CI/CD**: GitHub Actions, Jenkins  
-- **Kubernetes**: Minikube, kubectl, Helm, YAML  
-- **Cloud**: AWS Free Tier, GCP, Azure Student  
-- **Observability**: Prometheus, Grafana, Loki, Alertmanager
 
