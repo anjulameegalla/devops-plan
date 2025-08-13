@@ -52,4 +52,4 @@ By the end of Month 6, you will:
 This project is Free to use for educational purposes.  
 Feel free to fork and customize.
 
-Origin Repo : https://github.com/CoDeKu-Labs/devops-engineer-learning-path
+Browse origin repo [here](https://github.com/CoDeKu-Labs/devops-engineer-learning-path).
