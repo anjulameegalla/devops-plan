@@ -1,4 +1,4 @@
-# Ultimate 06 months DevOps learning plan
+# 06 months DevOps learning plan
 
 
 ## 🗓️ Curriculum Overview
